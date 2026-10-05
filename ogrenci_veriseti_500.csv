@@ -1,0 +1,501 @@
+﻿Ogrenci_ID,Ad,Soyad,Cinsiyet,Yas,Bolum,Vize_Notu,Final_Notu,Odev_Notu,Devamsizlik
+1001,Fatma,Acar,Kadın,21.0,Yazılım Mühendisliği,81.0,44.0,82.0,7.0
+1002,Mehmet,Yılmaz,Erkek,21.0,Veri Bilimi ve Analitiği,90.0,50.0,78.0,9.0
+1003,Eren,Çetin,Erkek,18.0,Yazılım Mühendisliği,53.0,32.0,61.0,4.0
+1004,Mustafa,Demir,Erkek,23.0,Yapay Zekâ Mühendisliği,31.0,59.0,77.0,1.0
+1005,Ali,Kurt,Erkek,23.0,Veri Bilimi ve Analitiği,93.0,,99.0,4.0
+1006,Hatice,Çelik,Kadın,25.0,Yönetim Bilişim Sistemleri,62.0,87.0,61.0,11.0
+1007,Derya,Kurt,Kadın,20.0,Endüstri Mühendisliği,78.0,88.0,81.0,11.0
+1008,Yasin,Güler,Erkek,21.0,Bilgisayar Mühendisliği,89.0,44.0,,2.0
+1009,Emre,Ünal,Erkek,25.0,Yazılım Mühendisliği,84.0,93.0,96.0,2.0
+1010,Zafer,Özcan,Erkek,21.0,Yazılım Mühendisliği,80.0,,,6.0
+1011,Sibel,Şimşek,Kadın,24.0,Veri Bilimi ve Analitiği,50.0,68.0,57.0,3.0
+1012,Selin,Korkmaz,Kadın,22.0,Yönetim Bilişim Sistemleri,89.0,43.0,89.0,
+1013,İsmail,Güler,Erkek,19.0,Yönetim Bilişim Sistemleri,38.0,82.0,41.0,3.0
+1014,Ayşe,Şimşek,Kadın,18.0,Bilgisayar Mühendisliği,89.0,100.0,83.0,7.0
+1015,Hilal,Özcan,Kadın,19.0,Yönetim Bilişim Sistemleri,76.0,,74.0,0.0
+1016,Yaren,Kurt,Kadın,24.0,Yazılım Mühendisliği,65.0,79.0,79.0,3.0
+1017,Ozan,Ünal,Erkek,25.0,Bilgisayar Mühendisliği,31.0,,,5.0
+1018,Ayşe,Demir,Kadın,18.0,Yazılım Mühendisliği,,,93.0,9.0
+1019,Ozan,Kara,Erkek,20.0,Yönetim Bilişim Sistemleri,33.0,83.0,68.0,1.0
+1020,Emre,Çelik,Erkek,24.0,Yapay Zekâ Mühendisliği,73.0,63.0,49.0,3.0
+1021,Elif,Kılıç,Kadın,19.0,Yazılım Mühendisliği,43.0,77.0,54.0,7.0
+1022,Eren,Demir,Erkek,19.0,Bilgisayar Mühendisliği,91.0,69.0,,4.0
+1023,Derya,Aslan,Kadın,21.0,Endüstri Mühendisliği,82.0,53.0,,9.0
+1024,Mert,Aslan,Erkek,25.0,Yazılım Mühendisliği,89.0,70.0,,0.0
+1025,Melis,Kaya,Kadın,25.0,Veri Bilimi ve Analitiği,100.0,38.0,,7.0
+1026,Merve,Şimşek,Kadın,21.0,Endüstri Mühendisliği,30.0,37.0,63.0,10.0
+1027,Rüya,Korkmaz,Kadın,23.0,Yapay Zekâ Mühendisliği,37.0,64.0,74.0,0.0
+1028,Hüseyin,Arslan,Erkek,19.0,Bilgisayar Mühendisliği,34.0,70.0,67.0,
+1029,Zehra,Aydın,Kadın,23.0,Bilgisayar Mühendisliği,36.0,41.0,73.0,0.0
+1030,Murat,Ünal,Erkek,22.0,Yönetim Bilişim Sistemleri,77.0,52.0,63.0,4.0
+1031,İrem,Özdemir,Kadın,23.0,Yazılım Mühendisliği,73.0,64.0,40.0,2.0
+1032,Büşra,Ünal,Kadın,22.0,Bilgisayar Mühendisliği,,76.0,53.0,2.0
+1033,Kadir,Yalçın,Erkek,18.0,Bilgisayar Mühendisliği,,30.0,44.0,9.0
+1034,Kerem,Kurt,Erkek,20.0,Bilgisayar Mühendisliği,43.0,56.0,48.0,9.0
+1035,Emre,Korkmaz,Erkek,19.0,Yapay Zekâ Mühendisliği,71.0,80.0,71.0,6.0
+1036,Hilal,Yıldız,Kadın,20.0,Endüstri Mühendisliği,,81.0,100.0,3.0
+1037,İrem,Yıldız,Kadın,19.0,Endüstri Mühendisliği,52.0,44.0,82.0,3.0
+1038,Ömer,Özdemir,Erkek,21.0,Yazılım Mühendisliği,,42.0,71.0,6.0
+1039,Ömer,Ünal,Erkek,23.0,Bilgisayar Mühendisliği,88.0,57.0,41.0,9.0
+1040,Mehmet,Çelik,Erkek,23.0,Yönetim Bilişim Sistemleri,74.0,91.0,96.0,4.0
+1041,Işıl,Kaya,Kadın,18.0,Veri Bilimi ve Analitiği,35.0,57.0,67.0,11.0
+1042,Nihan,Aslan,Kadın,23.0,Veri Bilimi ve Analitiği,73.0,59.0,50.0,9.0
+1043,Ozan,Aslan,Erkek,22.0,Veri Bilimi ve Analitiği,91.0,30.0,96.0,10.0
+1044,Leyla,Kılıç,Kadın,18.0,Yapay Zekâ Mühendisliği,91.0,32.0,78.0,5.0
+1045,Hüseyin,Çetin,Erkek,25.0,Yönetim Bilişim Sistemleri,56.0,,48.0,4.0
+1046,Ali,Güler,Erkek,22.0,Yazılım Mühendisliği,80.0,73.0,,7.0
+1047,Tuğba,Aslan,Kadın,21.0,Yönetim Bilişim Sistemleri,88.0,61.0,71.0,7.0
+1048,Ece,Güler,Kadın,20.0,Yönetim Bilişim Sistemleri,81.0,,88.0,0.0
+1049,Can,Çetin,Erkek,23.0,Endüstri Mühendisliği,87.0,81.0,51.0,6.0
+1050,Zafer,Yıldız,Erkek,25.0,Endüstri Mühendisliği,31.0,32.0,88.0,4.0
+1051,Onur,Öztürk,Erkek,19.0,Yönetim Bilişim Sistemleri,85.0,88.0,88.0,1.0
+1052,Gözde,Öztürk,Kadın,20.0,Yönetim Bilişim Sistemleri,31.0,83.0,62.0,4.0
+1053,Gülşah,Aslan,Kadın,18.0,Veri Bilimi ve Analitiği,30.0,,58.0,1.0
+1054,Kadir,Acar,Erkek,21.0,Endüstri Mühendisliği,82.0,73.0,,9.0
+1055,Tolga,Yıldız,Erkek,20.0,Veri Bilimi ve Analitiği,61.0,99.0,71.0,6.0
+1056,Sibel,Şahin,Kadın,20.0,Bilgisayar Mühendisliği,97.0,84.0,50.0,7.0
+1057,Oğuz,Güler,Erkek,24.0,Yapay Zekâ Mühendisliği,46.0,67.0,63.0,
+1058,Eren,Ünal,Erkek,18.0,Bilgisayar Mühendisliği,98.0,99.0,,5.0
+1059,Yaren,Korkmaz,Kadın,21.0,Endüstri Mühendisliği,40.0,45.0,72.0,8.0
+1060,Derya,Özdemir,Kadın,18.0,Yapay Zekâ Mühendisliği,88.0,99.0,55.0,2.0
+1061,Merve,Özcan,Kadın,21.0,Bilgisayar Mühendisliği,49.0,88.0,75.0,2.0
+1062,Nazlı,Kurt,Kadın,23.0,Bilgisayar Mühendisliği,96.0,48.0,59.0,6.0
+1063,Sibel,Doğan,Kadın,25.0,Yönetim Bilişim Sistemleri,81.0,62.0,79.0,6.0
+1064,Hüseyin,Aslan,Erkek,22.0,Yapay Zekâ Mühendisliği,30.0,40.0,,11.0
+1065,Tuğba,Özcan,Kadın,24.0,Yapay Zekâ Mühendisliği,,86.0,64.0,1.0
+1066,Kaan,Aydın,Erkek,22.0,Veri Bilimi ve Analitiği,,52.0,,9.0
+1067,Kadir,Güler,Erkek,25.0,Yönetim Bilişim Sistemleri,36.0,45.0,,9.0
+1068,Serkan,Öztürk,Erkek,23.0,Endüstri Mühendisliği,89.0,31.0,40.0,11.0
+1069,Serkan,Çetin,Erkek,22.0,Yazılım Mühendisliği,98.0,66.0,,10.0
+1070,Ebru,Yıldırım,Kadın,22.0,Yönetim Bilişim Sistemleri,38.0,48.0,87.0,2.0
+1071,Kübra,Öztürk,Kadın,22.0,Bilgisayar Mühendisliği,49.0,53.0,,
+1072,Serkan,Şahin,Erkek,25.0,Bilgisayar Mühendisliği,83.0,62.0,63.0,3.0
+1073,Elif,Aydın,Kadın,25.0,Bilgisayar Mühendisliği,65.0,67.0,,7.0
+1074,Gözde,Şahin,Kadın,22.0,Bilgisayar Mühendisliği,54.0,47.0,85.0,1.0
+1075,Özge,Çetin,Kadın,22.0,Veri Bilimi ve Analitiği,95.0,83.0,74.0,8.0
+1076,Gülşah,Ünal,Kadın,19.0,Yazılım Mühendisliği,62.0,97.0,72.0,4.0
+1077,Mert,Kaya,Erkek,22.0,Yönetim Bilişim Sistemleri,77.0,,59.0,7.0
+1078,Sibel,Çelik,Kadın,20.0,Yapay Zekâ Mühendisliği,37.0,,46.0,2.0
+1079,Hüseyin,Çelik,Erkek,22.0,Yönetim Bilişim Sistemleri,46.0,62.0,87.0,11.0
+1080,Sibel,Acar,Kadın,22.0,Bilgisayar Mühendisliği,,88.0,90.0,5.0
+1081,İrem,Özcan,Kadın,,Yazılım Mühendisliği,51.0,59.0,77.0,5.0
+1082,Onur,Kara,Erkek,25.0,Yapay Zekâ Mühendisliği,80.0,83.0,,7.0
+1083,Serkan,Kara,Erkek,24.0,Veri Bilimi ve Analitiği,,,66.0,10.0
+1084,Yusuf,Koç,Erkek,18.0,Yönetim Bilişim Sistemleri,50.0,59.0,,0.0
+1085,Onur,Çetin,Erkek,21.0,Yapay Zekâ Mühendisliği,57.0,93.0,72.0,4.0
+1086,Fatma,Ünal,Kadın,21.0,Yönetim Bilişim Sistemleri,90.0,77.0,58.0,3.0
+1087,Tuğba,Çelik,Kadın,20.0,Endüstri Mühendisliği,64.0,93.0,88.0,0.0
+1088,İbrahim,Öztürk,Erkek,20.0,Endüstri Mühendisliği,73.0,59.0,68.0,4.0
+1089,İrem,Güler,Kadın,24.0,Yapay Zekâ Mühendisliği,35.0,66.0,63.0,0.0
+1090,Yasin,Özcan,Erkek,25.0,Yazılım Mühendisliği,75.0,82.0,70.0,2.0
+1091,Hüseyin,Arslan,Erkek,21.0,Veri Bilimi ve Analitiği,89.0,92.0,100.0,4.0
+1092,Serkan,Kılıç,Erkek,20.0,Endüstri Mühendisliği,61.0,62.0,42.0,1.0
+1093,Şeyma,Çelik,Kadın,25.0,Bilgisayar Mühendisliği,54.0,83.0,97.0,2.0
+1094,Volkan,Aydın,Erkek,24.0,Yönetim Bilişim Sistemleri,,75.0,63.0,1.0
+1095,Onur,Yalçın,Erkek,25.0,Veri Bilimi ve Analitiği,,,71.0,5.0
+1096,Büşra,Aslan,Kadın,19.0,Endüstri Mühendisliği,52.0,95.0,,10.0
+1097,Kübra,Doğan,Kadın,20.0,Yazılım Mühendisliği,31.0,46.0,79.0,0.0
+1098,Özge,Şimşek,Kadın,25.0,Veri Bilimi ve Analitiği,38.0,72.0,93.0,6.0
+1099,Tuğba,Özdemir,Kadın,20.0,Bilgisayar Mühendisliği,71.0,55.0,74.0,1.0
+1100,Serkan,Aydın,Erkek,22.0,Yazılım Mühendisliği,54.0,53.0,,11.0
+1101,Kerem,Özdemir,Erkek,22.0,Bilgisayar Mühendisliği,36.0,86.0,75.0,3.0
+1102,Yasemin,Özdemir,Kadın,21.0,Veri Bilimi ve Analitiği,94.0,37.0,85.0,11.0
+1103,Ece,Ünal,Kadın,22.0,Endüstri Mühendisliği,,44.0,67.0,1.0
+1104,Tolga,Aslan,Erkek,20.0,Veri Bilimi ve Analitiği,95.0,61.0,62.0,5.0
+1105,Işıl,Kara,Kadın,22.0,Yönetim Bilişim Sistemleri,80.0,54.0,97.0,
+1106,Pınar,Kurt,Kadın,24.0,Bilgisayar Mühendisliği,92.0,91.0,100.0,5.0
+1107,Kerem,Kılıç,Erkek,23.0,Bilgisayar Mühendisliği,87.0,87.0,61.0,0.0
+1108,Murat,Öztürk,Erkek,25.0,Yönetim Bilişim Sistemleri,81.0,71.0,45.0,5.0
+1109,İbrahim,Çelik,Erkek,20.0,Endüstri Mühendisliği,89.0,37.0,92.0,11.0
+1110,Kerem,Acar,Erkek,24.0,Yönetim Bilişim Sistemleri,,34.0,78.0,3.0
+1111,Nihan,Yıldırım,Kadın,21.0,Yapay Zekâ Mühendisliği,,35.0,84.0,3.0
+1112,Mehmet,Kılıç,Erkek,19.0,Endüstri Mühendisliği,,76.0,74.0,6.0
+1113,Meltem,Öztürk,Kadın,21.0,Bilgisayar Mühendisliği,69.0,81.0,55.0,1.0
+1114,Meltem,Güler,Kadın,18.0,Yapay Zekâ Mühendisliği,59.0,48.0,56.0,7.0
+1115,Selin,Korkmaz,Kadın,20.0,Bilgisayar Mühendisliği,92.0,48.0,67.0,
+1116,Mehmet,Şahin,Erkek,19.0,Yönetim Bilişim Sistemleri,,87.0,94.0,9.0
+1117,İsmail,Öztürk,Erkek,18.0,Yönetim Bilişim Sistemleri,91.0,52.0,48.0,11.0
+1118,Elif,Kara,Kadın,24.0,Yönetim Bilişim Sistemleri,30.0,87.0,97.0,0.0
+1119,Murat,Şahin,Erkek,22.0,Veri Bilimi ve Analitiği,63.0,77.0,64.0,7.0
+1120,Hüseyin,Koç,Erkek,19.0,Yönetim Bilişim Sistemleri,30.0,45.0,100.0,6.0
+1121,Sibel,Çetin,Kadın,24.0,Yapay Zekâ Mühendisliği,93.0,92.0,44.0,5.0
+1122,Ozan,Aydın,Erkek,20.0,Yönetim Bilişim Sistemleri,96.0,,51.0,9.0
+1123,Nihan,Şahin,Kadın,23.0,Yönetim Bilişim Sistemleri,45.0,80.0,76.0,5.0
+1124,Kübra,Şimşek,Kadın,19.0,Veri Bilimi ve Analitiği,86.0,58.0,53.0,11.0
+1125,Yusuf,Kurt,Erkek,22.0,Veri Bilimi ve Analitiği,98.0,76.0,88.0,3.0
+1126,İrem,Yılmaz,Kadın,22.0,Yapay Zekâ Mühendisliği,98.0,45.0,65.0,9.0
+1127,Gözde,Acar,Kadın,18.0,Bilgisayar Mühendisliği,77.0,68.0,75.0,0.0
+1128,Mert,Acar,Erkek,19.0,Bilgisayar Mühendisliği,52.0,39.0,,5.0
+1129,Ozan,Aslan,Erkek,25.0,Endüstri Mühendisliği,98.0,63.0,,3.0
+1130,Ozan,Korkmaz,Erkek,22.0,Bilgisayar Mühendisliği,39.0,48.0,,9.0
+1131,Seda,Güler,Kadın,23.0,Bilgisayar Mühendisliği,,30.0,95.0,4.0
+1132,Zehra,Kurt,Kadın,23.0,Bilgisayar Mühendisliği,33.0,45.0,63.0,6.0
+1133,Melis,Özcan,Kadın,24.0,Yönetim Bilişim Sistemleri,31.0,61.0,66.0,3.0
+1134,Tuğba,Yalçın,Kadın,19.0,Endüstri Mühendisliği,53.0,41.0,89.0,2.0
+1135,Yusuf,Özdemir,Erkek,21.0,Yapay Zekâ Mühendisliği,62.0,,72.0,2.0
+1136,Nazlı,Doğan,Kadın,20.0,Yazılım Mühendisliği,72.0,41.0,42.0,0.0
+1137,Gamze,Güler,Kadın,25.0,Veri Bilimi ve Analitiği,62.0,69.0,49.0,10.0
+1138,Yusuf,Ünal,Erkek,25.0,Bilgisayar Mühendisliği,73.0,58.0,52.0,11.0
+1139,İsmail,Demir,Erkek,25.0,Bilgisayar Mühendisliği,,75.0,,1.0
+1140,Zehra,Kılıç,Kadın,18.0,Endüstri Mühendisliği,64.0,37.0,68.0,9.0
+1141,Elif,Çetin,Kadın,23.0,Yönetim Bilişim Sistemleri,,63.0,,2.0
+1142,İsmail,Koç,Erkek,23.0,Yapay Zekâ Mühendisliği,36.0,97.0,97.0,4.0
+1143,Meltem,Demir,Kadın,24.0,Yapay Zekâ Mühendisliği,58.0,65.0,64.0,4.0
+1144,Meltem,Demir,Kadın,20.0,Yapay Zekâ Mühendisliği,65.0,39.0,76.0,8.0
+1145,Leyla,Kurt,Kadın,23.0,Yazılım Mühendisliği,53.0,93.0,74.0,0.0
+1146,Sibel,Koç,Kadın,23.0,Yapay Zekâ Mühendisliği,65.0,53.0,62.0,4.0
+1147,Seda,Şahin,Kadın,19.0,Veri Bilimi ve Analitiği,41.0,84.0,52.0,
+1148,Zafer,Güler,Erkek,24.0,Yazılım Mühendisliği,52.0,59.0,56.0,0.0
+1149,Şeyma,Kaya,Kadın,21.0,Endüstri Mühendisliği,91.0,42.0,98.0,2.0
+1150,Leyla,Kara,Kadın,21.0,Yapay Zekâ Mühendisliği,78.0,41.0,100.0,8.0
+1151,İsmail,Koç,Erkek,20.0,Yazılım Mühendisliği,48.0,38.0,46.0,11.0
+1152,Kadir,Çelik,Erkek,19.0,Yapay Zekâ Mühendisliği,,81.0,58.0,9.0
+1153,Ali,Öztürk,Erkek,23.0,Bilgisayar Mühendisliği,45.0,98.0,74.0,11.0
+1154,Nihan,Öztürk,Kadın,,Bilgisayar Mühendisliği,54.0,81.0,98.0,4.0
+1155,Yasin,Kara,Erkek,20.0,Yönetim Bilişim Sistemleri,82.0,52.0,55.0,
+1156,Gözde,Kurt,Kadın,24.0,Bilgisayar Mühendisliği,86.0,68.0,84.0,4.0
+1157,Ali,Çelik,Erkek,25.0,Veri Bilimi ve Analitiği,71.0,87.0,78.0,9.0
+1158,Hasan,Yılmaz,Erkek,21.0,Veri Bilimi ve Analitiği,34.0,64.0,,6.0
+1159,Zehra,Koç,Kadın,24.0,Endüstri Mühendisliği,,47.0,86.0,11.0
+1160,Volkan,Demir,Erkek,19.0,Veri Bilimi ve Analitiği,38.0,87.0,,11.0
+1161,Tuğba,Yalçın,Kadın,20.0,Yazılım Mühendisliği,,46.0,100.0,5.0
+1162,Ebru,Kaya,Kadın,22.0,Veri Bilimi ve Analitiği,36.0,75.0,52.0,
+1163,Kübra,Doğan,Kadın,18.0,Yönetim Bilişim Sistemleri,69.0,71.0,48.0,1.0
+1164,Zafer,Kılıç,Erkek,20.0,Endüstri Mühendisliği,56.0,95.0,44.0,4.0
+1165,Sibel,Demir,Kadın,20.0,Veri Bilimi ve Analitiği,67.0,37.0,87.0,0.0
+1166,Murat,Yalçın,Erkek,25.0,Yapay Zekâ Mühendisliği,46.0,100.0,64.0,3.0
+1167,Oğuz,Ünal,Erkek,18.0,Bilgisayar Mühendisliği,65.0,99.0,99.0,2.0
+1168,Fatma,Şahin,Kadın,25.0,Bilgisayar Mühendisliği,90.0,83.0,78.0,10.0
+1169,Gözde,Korkmaz,Kadın,23.0,Yapay Zekâ Mühendisliği,48.0,,78.0,2.0
+1170,Onur,Aydın,Erkek,19.0,Bilgisayar Mühendisliği,74.0,42.0,89.0,11.0
+1171,Uğur,Aydın,Erkek,21.0,Veri Bilimi ve Analitiği,87.0,49.0,67.0,7.0
+1172,Şeyma,Yıldız,Kadın,25.0,Bilgisayar Mühendisliği,90.0,68.0,40.0,2.0
+1173,Kübra,Özdemir,Kadın,20.0,Yapay Zekâ Mühendisliği,91.0,92.0,99.0,0.0
+1174,Ahmet,Doğan,Erkek,23.0,Endüstri Mühendisliği,54.0,85.0,72.0,5.0
+1175,Enes,Yalçın,Erkek,24.0,Endüstri Mühendisliği,35.0,,97.0,11.0
+1176,Hüseyin,Korkmaz,Erkek,20.0,Veri Bilimi ve Analitiği,74.0,61.0,84.0,4.0
+1177,Selin,Koç,Kadın,20.0,Yazılım Mühendisliği,65.0,48.0,59.0,8.0
+1178,Yusuf,Demir,Erkek,22.0,Yazılım Mühendisliği,47.0,76.0,,8.0
+1179,Derya,Korkmaz,Kadın,23.0,Veri Bilimi ve Analitiği,,78.0,,0.0
+1180,Onur,Yıldırım,Erkek,24.0,Veri Bilimi ve Analitiği,83.0,32.0,55.0,6.0
+1181,İbrahim,Öztürk,Erkek,24.0,Yapay Zekâ Mühendisliği,86.0,41.0,49.0,7.0
+1182,Emre,Arslan,Erkek,23.0,Yönetim Bilişim Sistemleri,53.0,57.0,92.0,7.0
+1183,İsmail,Kurt,Erkek,21.0,Endüstri Mühendisliği,65.0,37.0,97.0,
+1184,Yusuf,Şimşek,Erkek,20.0,Yapay Zekâ Mühendisliği,89.0,79.0,67.0,11.0
+1185,İbrahim,Özdemir,Erkek,19.0,Endüstri Mühendisliği,70.0,93.0,66.0,5.0
+1186,Kübra,Kara,Kadın,25.0,Yapay Zekâ Mühendisliği,92.0,46.0,48.0,0.0
+1187,Uğur,Kılıç,Erkek,24.0,Bilgisayar Mühendisliği,58.0,42.0,85.0,
+1188,Uğur,Kurt,Erkek,19.0,Yazılım Mühendisliği,64.0,35.0,57.0,2.0
+1189,Uğur,Şahin,Erkek,24.0,Veri Bilimi ve Analitiği,,,44.0,8.0
+1190,Can,Şimşek,Erkek,20.0,Yapay Zekâ Mühendisliği,95.0,39.0,95.0,1.0
+1191,Kerem,Arslan,Erkek,25.0,Yönetim Bilişim Sistemleri,34.0,62.0,,5.0
+1192,Rüya,Özcan,Kadın,18.0,Veri Bilimi ve Analitiği,94.0,47.0,71.0,0.0
+1193,Elif,Özcan,Kadın,24.0,Yazılım Mühendisliği,40.0,55.0,64.0,5.0
+1194,Fatma,Çetin,Kadın,20.0,Endüstri Mühendisliği,88.0,56.0,88.0,0.0
+1195,Seda,Koç,Kadın,23.0,Yönetim Bilişim Sistemleri,30.0,50.0,87.0,6.0
+1196,Kadir,Doğan,Erkek,22.0,Veri Bilimi ve Analitiği,35.0,98.0,70.0,4.0
+1197,Uğur,Özdemir,Erkek,25.0,Yapay Zekâ Mühendisliği,32.0,82.0,62.0,4.0
+1198,Mustafa,Özcan,Erkek,24.0,Endüstri Mühendisliği,82.0,66.0,49.0,9.0
+1199,Serkan,Demir,Erkek,25.0,Yönetim Bilişim Sistemleri,46.0,30.0,90.0,3.0
+1200,Can,Çelik,Erkek,21.0,Yazılım Mühendisliği,,91.0,40.0,0.0
+1201,Rüya,Arslan,Kadın,19.0,Yönetim Bilişim Sistemleri,61.0,,73.0,11.0
+1202,Onur,Kara,Erkek,21.0,Yapay Zekâ Mühendisliği,68.0,55.0,97.0,1.0
+1203,Zeynep,Yıldız,Kadın,20.0,Bilgisayar Mühendisliği,83.0,32.0,98.0,1.0
+1204,Zafer,Kaya,Erkek,,Veri Bilimi ve Analitiği,41.0,94.0,93.0,11.0
+1205,Zafer,Şahin,Erkek,25.0,Yapay Zekâ Mühendisliği,34.0,86.0,56.0,6.0
+1206,Serkan,Yıldız,Erkek,,Yapay Zekâ Mühendisliği,43.0,95.0,50.0,2.0
+1207,Yasin,Aslan,Erkek,19.0,Endüstri Mühendisliği,67.0,93.0,99.0,1.0
+1208,Ayşe,Aydın,Kadın,25.0,Yapay Zekâ Mühendisliği,67.0,79.0,73.0,
+1209,Serkan,Öztürk,Erkek,19.0,Endüstri Mühendisliği,59.0,80.0,73.0,3.0
+1210,Serkan,Çelik,Erkek,22.0,Yapay Zekâ Mühendisliği,67.0,59.0,94.0,9.0
+1211,Hasan,Yalçın,Erkek,25.0,Veri Bilimi ve Analitiği,80.0,34.0,68.0,3.0
+1212,Şeyma,Koç,Kadın,19.0,Veri Bilimi ve Analitiği,39.0,85.0,56.0,9.0
+1213,Derya,Arslan,Kadın,25.0,Bilgisayar Mühendisliği,46.0,98.0,73.0,5.0
+1214,Volkan,Kaya,Erkek,24.0,Endüstri Mühendisliği,82.0,95.0,52.0,10.0
+1215,Pınar,Aydın,Kadın,21.0,Veri Bilimi ve Analitiği,,72.0,87.0,10.0
+1216,Merve,Kara,Kadın,,Endüstri Mühendisliği,52.0,84.0,55.0,10.0
+1217,Ömer,Kılıç,Erkek,24.0,Endüstri Mühendisliği,,45.0,47.0,3.0
+1218,Mustafa,Yıldız,Erkek,24.0,Veri Bilimi ve Analitiği,33.0,85.0,64.0,2.0
+1219,Hüseyin,Korkmaz,Erkek,24.0,Veri Bilimi ve Analitiği,96.0,56.0,68.0,1.0
+1220,Selin,Kaya,Kadın,24.0,Veri Bilimi ve Analitiği,90.0,80.0,,2.0
+1221,Zeynep,Çetin,Kadın,18.0,Yazılım Mühendisliği,50.0,34.0,57.0,11.0
+1222,Seda,Koç,Kadın,21.0,Yönetim Bilişim Sistemleri,71.0,90.0,61.0,4.0
+1223,Leyla,Şahin,Kadın,21.0,Endüstri Mühendisliği,99.0,,40.0,4.0
+1224,Sibel,Kurt,Kadın,23.0,Yönetim Bilişim Sistemleri,41.0,75.0,73.0,0.0
+1225,Leyla,Kılıç,Kadın,25.0,Yazılım Mühendisliği,74.0,56.0,48.0,9.0
+1226,Rüya,Aslan,Kadın,20.0,Endüstri Mühendisliği,76.0,85.0,69.0,10.0
+1227,Ali,Kurt,Erkek,21.0,Bilgisayar Mühendisliği,92.0,77.0,100.0,0.0
+1228,Gülşah,Kara,Kadın,23.0,Yapay Zekâ Mühendisliği,55.0,,75.0,0.0
+1229,Yaren,Öztürk,Kadın,21.0,Endüstri Mühendisliği,37.0,81.0,54.0,7.0
+1230,Mert,Aydın,Erkek,25.0,Endüstri Mühendisliği,,43.0,65.0,11.0
+1231,Nihan,Arslan,Kadın,21.0,Yönetim Bilişim Sistemleri,31.0,55.0,53.0,10.0
+1232,Mert,Şahin,Erkek,21.0,Endüstri Mühendisliği,85.0,36.0,42.0,6.0
+1233,Oğuz,Güler,Erkek,25.0,Endüstri Mühendisliği,47.0,67.0,74.0,2.0
+1234,Burak,Kurt,Erkek,18.0,Veri Bilimi ve Analitiği,,44.0,64.0,6.0
+1235,Rüya,Şahin,Kadın,21.0,Bilgisayar Mühendisliği,57.0,,49.0,6.0
+1236,Ozan,Kara,Erkek,,Veri Bilimi ve Analitiği,86.0,,56.0,6.0
+1237,Ahmet,Koç,Erkek,24.0,Yazılım Mühendisliği,73.0,,64.0,0.0
+1238,Yasin,Doğan,Erkek,24.0,Bilgisayar Mühendisliği,42.0,54.0,43.0,9.0
+1239,Leyla,Korkmaz,Kadın,19.0,Yönetim Bilişim Sistemleri,96.0,47.0,,3.0
+1240,Kadir,Kara,Erkek,18.0,Yönetim Bilişim Sistemleri,63.0,37.0,79.0,0.0
+1241,Zeynep,Öztürk,Kadın,25.0,Yapay Zekâ Mühendisliği,,,83.0,2.0
+1242,Gamze,Arslan,Kadın,,Yazılım Mühendisliği,71.0,70.0,76.0,5.0
+1243,Leyla,Yıldız,Kadın,24.0,Yönetim Bilişim Sistemleri,81.0,55.0,73.0,10.0
+1244,Zehra,Acar,Kadın,18.0,Bilgisayar Mühendisliği,85.0,88.0,84.0,5.0
+1245,Uğur,Arslan,Erkek,,Yapay Zekâ Mühendisliği,62.0,82.0,61.0,4.0
+1246,Hasan,Yıldız,Erkek,24.0,Bilgisayar Mühendisliği,99.0,99.0,94.0,
+1247,Can,Kılıç,Erkek,20.0,Yönetim Bilişim Sistemleri,33.0,91.0,,7.0
+1248,Ömer,Güler,Erkek,20.0,Bilgisayar Mühendisliği,84.0,38.0,94.0,2.0
+1249,Büşra,Doğan,Kadın,23.0,Endüstri Mühendisliği,,60.0,79.0,4.0
+1250,Derya,Korkmaz,Kadın,20.0,Yapay Zekâ Mühendisliği,65.0,53.0,,5.0
+1251,Mert,Kara,Erkek,23.0,Yapay Zekâ Mühendisliği,95.0,33.0,54.0,5.0
+1252,Mustafa,Şahin,Erkek,24.0,Yapay Zekâ Mühendisliği,80.0,91.0,96.0,1.0
+1253,Yasin,Ünal,Erkek,20.0,Yapay Zekâ Mühendisliği,37.0,55.0,90.0,11.0
+1254,Kaan,Özdemir,Erkek,25.0,Veri Bilimi ve Analitiği,34.0,99.0,65.0,5.0
+1255,Mustafa,Özcan,Erkek,20.0,Yönetim Bilişim Sistemleri,97.0,,58.0,3.0
+1256,Şeyma,Özdemir,Kadın,19.0,Endüstri Mühendisliği,49.0,41.0,86.0,0.0
+1257,Sibel,Kılıç,Kadın,25.0,Veri Bilimi ve Analitiği,43.0,93.0,77.0,4.0
+1258,Nihan,Yalçın,Kadın,19.0,Bilgisayar Mühendisliği,40.0,32.0,72.0,5.0
+1259,Pınar,Güler,Kadın,24.0,Bilgisayar Mühendisliği,,79.0,95.0,9.0
+1260,Şeyma,Doğan,Kadın,20.0,Yapay Zekâ Mühendisliği,34.0,52.0,49.0,11.0
+1261,Selin,Acar,Kadın,22.0,Yapay Zekâ Mühendisliği,31.0,42.0,79.0,1.0
+1262,Tolga,Yalçın,Erkek,19.0,Yapay Zekâ Mühendisliği,,94.0,,4.0
+1263,Derya,Acar,Kadın,20.0,Veri Bilimi ve Analitiği,46.0,38.0,50.0,7.0
+1264,Onur,Yıldız,Erkek,24.0,Endüstri Mühendisliği,,67.0,94.0,2.0
+1265,Ahmet,Yalçın,Erkek,22.0,Yönetim Bilişim Sistemleri,78.0,,,4.0
+1266,Nihan,Arslan,Kadın,19.0,Yapay Zekâ Mühendisliği,91.0,89.0,83.0,1.0
+1267,Murat,Kılıç,Erkek,23.0,Yapay Zekâ Mühendisliği,38.0,63.0,51.0,2.0
+1268,Murat,Özcan,Erkek,20.0,Yapay Zekâ Mühendisliği,64.0,30.0,79.0,5.0
+1269,Hasan,Şimşek,Erkek,24.0,Endüstri Mühendisliği,89.0,93.0,68.0,7.0
+1270,Derya,Kara,Kadın,20.0,Yapay Zekâ Mühendisliği,40.0,43.0,99.0,2.0
+1271,Can,Yıldırım,Erkek,25.0,Endüstri Mühendisliği,66.0,34.0,58.0,10.0
+1272,Fatma,Güler,Kadın,18.0,Yapay Zekâ Mühendisliği,55.0,91.0,43.0,8.0
+1273,Kadir,Koç,Erkek,19.0,Yapay Zekâ Mühendisliği,71.0,47.0,79.0,7.0
+1274,Şeyma,Kurt,Kadın,24.0,Bilgisayar Mühendisliği,68.0,43.0,71.0,2.0
+1275,Şeyma,Aydın,Kadın,19.0,Endüstri Mühendisliği,67.0,52.0,54.0,0.0
+1276,Yusuf,Yalçın,Erkek,24.0,Yazılım Mühendisliği,54.0,46.0,72.0,6.0
+1277,Kadir,Aydın,Erkek,20.0,Yapay Zekâ Mühendisliği,95.0,82.0,79.0,7.0
+1278,Seda,Güler,Kadın,18.0,Yapay Zekâ Mühendisliği,80.0,68.0,90.0,5.0
+1279,Yasin,Öztürk,Erkek,24.0,Endüstri Mühendisliği,35.0,96.0,46.0,2.0
+1280,Büşra,Kılıç,Kadın,22.0,Yönetim Bilişim Sistemleri,71.0,93.0,91.0,0.0
+1281,Büşra,Acar,Kadın,23.0,Bilgisayar Mühendisliği,56.0,65.0,68.0,5.0
+1282,Oğuz,Arslan,Erkek,23.0,Veri Bilimi ve Analitiği,86.0,56.0,94.0,0.0
+1283,Zeynep,Çelik,Kadın,25.0,Bilgisayar Mühendisliği,97.0,95.0,49.0,
+1284,Emre,Yalçın,Erkek,22.0,Yazılım Mühendisliği,34.0,67.0,,3.0
+1285,Nihan,Korkmaz,Kadın,20.0,Bilgisayar Mühendisliği,81.0,85.0,54.0,7.0
+1286,Ece,Yılmaz,Kadın,19.0,Yazılım Mühendisliği,34.0,58.0,86.0,
+1287,Yasin,Çelik,Erkek,24.0,Yönetim Bilişim Sistemleri,97.0,,51.0,1.0
+1288,Ece,Arslan,Kadın,22.0,Yazılım Mühendisliği,56.0,65.0,75.0,9.0
+1289,Merve,Koç,Kadın,20.0,Endüstri Mühendisliği,72.0,56.0,44.0,3.0
+1290,Yusuf,Yıldırım,Erkek,19.0,Yazılım Mühendisliği,40.0,67.0,45.0,7.0
+1291,Volkan,Şahin,Erkek,19.0,Yazılım Mühendisliği,52.0,76.0,65.0,10.0
+1292,Leyla,Yıldırım,Kadın,21.0,Yönetim Bilişim Sistemleri,41.0,42.0,79.0,1.0
+1293,Yasemin,Kılıç,Kadın,25.0,Yönetim Bilişim Sistemleri,89.0,72.0,51.0,11.0
+1294,Can,Kılıç,Erkek,24.0,Yapay Zekâ Mühendisliği,97.0,34.0,95.0,4.0
+1295,Fatma,Özcan,Kadın,22.0,Yazılım Mühendisliği,,,47.0,9.0
+1296,Hasan,Yalçın,Erkek,20.0,Yapay Zekâ Mühendisliği,,,88.0,11.0
+1297,Melis,Kılıç,Kadın,19.0,Yapay Zekâ Mühendisliği,60.0,38.0,93.0,
+1298,Sibel,Çelik,Kadın,18.0,Yapay Zekâ Mühendisliği,80.0,58.0,53.0,
+1299,Ayşe,Yıldız,Kadın,23.0,Veri Bilimi ve Analitiği,69.0,70.0,61.0,10.0
+1300,Tolga,Çelik,Erkek,18.0,Yapay Zekâ Mühendisliği,52.0,30.0,,4.0
+1301,Yasemin,Çetin,Kadın,18.0,Endüstri Mühendisliği,50.0,65.0,93.0,6.0
+1302,Hatice,Acar,Kadın,18.0,Bilgisayar Mühendisliği,86.0,30.0,93.0,6.0
+1303,Rüya,Öztürk,Kadın,24.0,Yönetim Bilişim Sistemleri,69.0,44.0,60.0,8.0
+1304,Gamze,Öztürk,Kadın,18.0,Endüstri Mühendisliği,,82.0,48.0,9.0
+1305,Ali,Kurt,Erkek,23.0,Yazılım Mühendisliği,81.0,86.0,92.0,9.0
+1306,Kerem,Kara,Erkek,21.0,Yönetim Bilişim Sistemleri,70.0,64.0,91.0,
+1307,Ahmet,Öztürk,Erkek,18.0,Yapay Zekâ Mühendisliği,,54.0,65.0,10.0
+1308,Gülşah,Koç,Kadın,24.0,Endüstri Mühendisliği,67.0,31.0,46.0,1.0
+1309,Hatice,Koç,Kadın,23.0,Endüstri Mühendisliği,63.0,,,10.0
+1310,Ali,Özcan,Erkek,24.0,Yönetim Bilişim Sistemleri,46.0,72.0,98.0,11.0
+1311,Serkan,Acar,Erkek,25.0,Yapay Zekâ Mühendisliği,80.0,83.0,63.0,8.0
+1312,Gözde,Çelik,Kadın,25.0,Yapay Zekâ Mühendisliği,100.0,81.0,45.0,4.0
+1313,Hüseyin,Aydın,Erkek,19.0,Yazılım Mühendisliği,62.0,78.0,68.0,10.0
+1314,Melis,Şahin,Kadın,21.0,Yapay Zekâ Mühendisliği,51.0,,65.0,11.0
+1315,Fatma,Kılıç,Kadın,21.0,Bilgisayar Mühendisliği,78.0,100.0,56.0,
+1316,Seda,Yıldırım,Kadın,23.0,Yönetim Bilişim Sistemleri,78.0,49.0,93.0,5.0
+1317,Fatma,Demir,Kadın,25.0,Yazılım Mühendisliği,,92.0,100.0,7.0
+1318,Mehmet,Yıldız,Erkek,24.0,Yönetim Bilişim Sistemleri,78.0,,46.0,0.0
+1319,Gamze,Aydın,Kadın,20.0,Bilgisayar Mühendisliği,42.0,80.0,98.0,7.0
+1320,Mehmet,Demir,Erkek,20.0,Endüstri Mühendisliği,91.0,61.0,69.0,0.0
+1321,Özge,Yalçın,Kadın,25.0,Yapay Zekâ Mühendisliği,74.0,59.0,55.0,7.0
+1322,Murat,Öztürk,Erkek,,Yapay Zekâ Mühendisliği,,48.0,57.0,0.0
+1323,Derya,Çelik,Kadın,21.0,Yapay Zekâ Mühendisliği,76.0,95.0,93.0,11.0
+1324,Özge,Doğan,Kadın,20.0,Yazılım Mühendisliği,67.0,80.0,43.0,0.0
+1325,Nazlı,Özcan,Kadın,21.0,Endüstri Mühendisliği,37.0,58.0,,
+1326,Fatma,Koç,Kadın,23.0,Veri Bilimi ve Analitiği,84.0,32.0,71.0,9.0
+1327,Mehmet,Yılmaz,Erkek,20.0,Bilgisayar Mühendisliği,63.0,84.0,67.0,1.0
+1328,Kerem,Çelik,Erkek,23.0,Yazılım Mühendisliği,36.0,37.0,40.0,8.0
+1329,Onur,Arslan,Erkek,23.0,Yazılım Mühendisliği,96.0,88.0,100.0,7.0
+1330,Can,Yıldız,Erkek,24.0,Veri Bilimi ve Analitiği,,83.0,96.0,4.0
+1331,Ece,Kara,Kadın,19.0,Yazılım Mühendisliği,96.0,80.0,72.0,11.0
+1332,Hüseyin,Yılmaz,Erkek,21.0,Yönetim Bilişim Sistemleri,,37.0,,
+1333,Hüseyin,Acar,Erkek,20.0,Endüstri Mühendisliği,63.0,64.0,71.0,7.0
+1334,Volkan,Özcan,Erkek,21.0,Yazılım Mühendisliği,61.0,75.0,,
+1335,Mustafa,Demir,Erkek,24.0,Yazılım Mühendisliği,45.0,97.0,91.0,4.0
+1336,Serkan,Yılmaz,Erkek,20.0,Veri Bilimi ve Analitiği,83.0,43.0,,6.0
+1337,Rüya,Yalçın,Kadın,22.0,Yönetim Bilişim Sistemleri,77.0,36.0,,9.0
+1338,Can,Kaya,Erkek,24.0,Bilgisayar Mühendisliği,36.0,62.0,62.0,4.0
+1339,Gülşah,Yıldız,Kadın,19.0,Endüstri Mühendisliği,48.0,48.0,75.0,11.0
+1340,Ali,Ünal,Erkek,20.0,Yapay Zekâ Mühendisliği,31.0,30.0,86.0,4.0
+1341,Oğuz,Öztürk,Erkek,18.0,Yazılım Mühendisliği,49.0,40.0,,9.0
+1342,Uğur,Özcan,Erkek,18.0,Endüstri Mühendisliği,31.0,96.0,62.0,6.0
+1343,Kerem,Öztürk,Erkek,19.0,Endüstri Mühendisliği,41.0,49.0,44.0,4.0
+1344,Selin,Güler,Kadın,20.0,Yazılım Mühendisliği,67.0,38.0,73.0,4.0
+1345,Emre,Ünal,Erkek,22.0,Yapay Zekâ Mühendisliği,73.0,53.0,,0.0
+1346,Kadir,Arslan,Erkek,25.0,Bilgisayar Mühendisliği,59.0,88.0,85.0,6.0
+1347,Can,Şahin,Erkek,19.0,Bilgisayar Mühendisliği,43.0,38.0,79.0,1.0
+1348,Zafer,Aslan,Erkek,25.0,Veri Bilimi ve Analitiği,54.0,,78.0,8.0
+1349,Mehmet,Kılıç,Erkek,23.0,Yönetim Bilişim Sistemleri,51.0,33.0,65.0,9.0
+1350,Meltem,Özdemir,Kadın,25.0,Yönetim Bilişim Sistemleri,58.0,66.0,50.0,5.0
+1351,Uğur,Arslan,Erkek,24.0,Veri Bilimi ve Analitiği,47.0,71.0,75.0,8.0
+1352,Uğur,Koç,Erkek,18.0,Veri Bilimi ve Analitiği,67.0,,73.0,0.0
+1353,Gamze,Yıldırım,Kadın,21.0,Bilgisayar Mühendisliği,66.0,54.0,77.0,9.0
+1354,Ömer,Çetin,Erkek,19.0,Yönetim Bilişim Sistemleri,,56.0,96.0,5.0
+1355,Kerem,Kurt,Erkek,20.0,Yapay Zekâ Mühendisliği,69.0,41.0,84.0,8.0
+1356,Gülşah,Öztürk,Kadın,21.0,Yapay Zekâ Mühendisliği,82.0,100.0,49.0,0.0
+1357,Yaren,Şahin,Kadın,18.0,Yazılım Mühendisliği,55.0,91.0,97.0,1.0
+1358,Hasan,Kılıç,Erkek,25.0,Yapay Zekâ Mühendisliği,83.0,94.0,90.0,4.0
+1359,Ayşe,Koç,Kadın,23.0,Veri Bilimi ve Analitiği,65.0,55.0,68.0,4.0
+1360,Meltem,Aydın,Kadın,22.0,Yapay Zekâ Mühendisliği,40.0,69.0,50.0,3.0
+1361,Elif,Şimşek,Kadın,23.0,Yönetim Bilişim Sistemleri,88.0,,78.0,7.0
+1362,Enes,Kılıç,Erkek,21.0,Yapay Zekâ Mühendisliği,83.0,84.0,86.0,7.0
+1363,İsmail,Özdemir,Erkek,20.0,Yapay Zekâ Mühendisliği,,51.0,44.0,7.0
+1364,Meltem,Ünal,Kadın,23.0,Yazılım Mühendisliği,62.0,65.0,86.0,3.0
+1365,Kerem,Özdemir,Erkek,19.0,Endüstri Mühendisliği,,91.0,98.0,10.0
+1366,Zafer,Yıldırım,Erkek,24.0,Veri Bilimi ve Analitiği,55.0,,41.0,4.0
+1367,Meltem,Aslan,Kadın,25.0,Yazılım Mühendisliği,69.0,46.0,40.0,8.0
+1368,Melis,Ünal,Kadın,25.0,Yapay Zekâ Mühendisliği,90.0,72.0,79.0,9.0
+1369,Seda,Şimşek,Kadın,24.0,Endüstri Mühendisliği,54.0,68.0,,2.0
+1370,Ahmet,Arslan,Erkek,21.0,Bilgisayar Mühendisliği,32.0,73.0,90.0,5.0
+1371,Mert,Şahin,Erkek,22.0,Yazılım Mühendisliği,,,73.0,11.0
+1372,Hasan,Korkmaz,Erkek,23.0,Endüstri Mühendisliği,48.0,73.0,98.0,10.0
+1373,Ahmet,Öztürk,Erkek,20.0,Yazılım Mühendisliği,78.0,90.0,56.0,9.0
+1374,Özge,Ünal,Kadın,18.0,Veri Bilimi ve Analitiği,86.0,84.0,88.0,
+1375,Rüya,Çetin,Kadın,22.0,Endüstri Mühendisliği,76.0,41.0,55.0,
+1376,Ozan,Çelik,Erkek,22.0,Veri Bilimi ve Analitiği,37.0,50.0,56.0,6.0
+1377,Kübra,Çelik,Kadın,25.0,Yazılım Mühendisliği,99.0,54.0,57.0,8.0
+1378,Serkan,Aslan,Erkek,18.0,Veri Bilimi ve Analitiği,41.0,44.0,98.0,9.0
+1379,Ayşe,Korkmaz,Kadın,19.0,Veri Bilimi ve Analitiği,55.0,76.0,,9.0
+1380,Işıl,Ünal,Kadın,22.0,Yapay Zekâ Mühendisliği,45.0,,46.0,
+1381,Ömer,Korkmaz,Erkek,19.0,Bilgisayar Mühendisliği,46.0,52.0,,9.0
+1382,Meltem,Doğan,Kadın,22.0,Yönetim Bilişim Sistemleri,,36.0,53.0,4.0
+1383,Oğuz,Kılıç,Erkek,25.0,Endüstri Mühendisliği,36.0,38.0,,2.0
+1384,Derya,Çelik,Kadın,25.0,Veri Bilimi ve Analitiği,77.0,88.0,62.0,1.0
+1385,Seda,Kara,Kadın,19.0,Endüstri Mühendisliği,68.0,,74.0,
+1386,Meltem,Koç,Kadın,19.0,Endüstri Mühendisliği,47.0,88.0,81.0,6.0
+1387,Can,Kurt,Erkek,18.0,Bilgisayar Mühendisliği,46.0,43.0,70.0,7.0
+1388,Merve,Güler,Kadın,21.0,Yapay Zekâ Mühendisliği,89.0,,84.0,1.0
+1389,Yasin,Öztürk,Erkek,25.0,Veri Bilimi ve Analitiği,32.0,66.0,82.0,7.0
+1390,Tolga,Ünal,Erkek,,Endüstri Mühendisliği,84.0,68.0,,7.0
+1391,Zafer,Koç,Erkek,25.0,Yapay Zekâ Mühendisliği,33.0,,68.0,5.0
+1392,Serkan,Korkmaz,Erkek,25.0,Bilgisayar Mühendisliği,,54.0,,1.0
+1393,Kadir,Koç,Erkek,19.0,Bilgisayar Mühendisliği,62.0,45.0,84.0,9.0
+1394,Mustafa,Aydın,Erkek,21.0,Bilgisayar Mühendisliği,95.0,84.0,74.0,9.0
+1395,Mustafa,Güler,Erkek,19.0,Endüstri Mühendisliği,63.0,59.0,98.0,6.0
+1396,Elif,Kurt,Kadın,25.0,Veri Bilimi ve Analitiği,42.0,42.0,57.0,2.0
+1397,Ece,Kılıç,Kadın,23.0,Veri Bilimi ve Analitiği,68.0,75.0,91.0,0.0
+1398,İrem,Kılıç,Kadın,22.0,Endüstri Mühendisliği,91.0,86.0,55.0,7.0
+1399,Yasin,Yalçın,Erkek,23.0,Yönetim Bilişim Sistemleri,39.0,59.0,64.0,6.0
+1400,Ozan,Doğan,Erkek,20.0,Yönetim Bilişim Sistemleri,34.0,94.0,69.0,0.0
+1401,Serkan,Çelik,Erkek,25.0,Veri Bilimi ve Analitiği,32.0,74.0,53.0,7.0
+1402,Zafer,Aslan,Erkek,19.0,Bilgisayar Mühendisliği,59.0,,,1.0
+1403,Kübra,Korkmaz,Kadın,18.0,Yönetim Bilişim Sistemleri,97.0,47.0,76.0,8.0
+1404,Mustafa,Şimşek,Erkek,21.0,Yönetim Bilişim Sistemleri,77.0,94.0,92.0,8.0
+1405,Serkan,Korkmaz,Erkek,,Endüstri Mühendisliği,44.0,78.0,96.0,7.0
+1406,Ayşe,Acar,Kadın,25.0,Yazılım Mühendisliği,97.0,41.0,98.0,9.0
+1407,Ebru,Özdemir,Kadın,19.0,Yazılım Mühendisliği,66.0,90.0,,
+1408,Kadir,Aydın,Erkek,22.0,Bilgisayar Mühendisliği,72.0,99.0,78.0,7.0
+1409,Murat,Kaya,Erkek,22.0,Endüstri Mühendisliği,92.0,75.0,,7.0
+1410,Gamze,Koç,Kadın,20.0,Endüstri Mühendisliği,40.0,91.0,52.0,1.0
+1411,Kaan,Doğan,Erkek,25.0,Veri Bilimi ve Analitiği,54.0,100.0,,3.0
+1412,Eren,Ünal,Erkek,21.0,Bilgisayar Mühendisliği,33.0,88.0,47.0,3.0
+1413,Oğuz,Kurt,Erkek,18.0,Veri Bilimi ve Analitiği,92.0,83.0,92.0,2.0
+1414,Kübra,Ünal,Kadın,19.0,Bilgisayar Mühendisliği,86.0,70.0,88.0,
+1415,Gülşah,Korkmaz,Kadın,21.0,Yönetim Bilişim Sistemleri,32.0,35.0,44.0,4.0
+1416,Onur,Demir,Erkek,20.0,Bilgisayar Mühendisliği,83.0,76.0,,
+1417,Kadir,Demir,Erkek,21.0,Yapay Zekâ Mühendisliği,78.0,38.0,74.0,3.0
+1418,Ozan,Çelik,Erkek,19.0,Yönetim Bilişim Sistemleri,90.0,64.0,,1.0
+1419,Kübra,Korkmaz,Kadın,19.0,Yapay Zekâ Mühendisliği,91.0,46.0,63.0,2.0
+1420,Burak,Kurt,Erkek,24.0,Veri Bilimi ve Analitiği,61.0,42.0,95.0,8.0
+1421,Ahmet,Kurt,Erkek,20.0,Bilgisayar Mühendisliği,,97.0,53.0,4.0
+1422,Leyla,Yıldırım,Kadın,23.0,Yazılım Mühendisliği,40.0,85.0,42.0,10.0
+1423,Işıl,Yıldırım,Kadın,18.0,Veri Bilimi ve Analitiği,58.0,38.0,42.0,
+1424,Ebru,Acar,Kadın,23.0,Yapay Zekâ Mühendisliği,54.0,71.0,,8.0
+1425,Melis,Kara,Kadın,22.0,Yönetim Bilişim Sistemleri,69.0,54.0,44.0,10.0
+1426,Burak,Yılmaz,Erkek,21.0,Yönetim Bilişim Sistemleri,88.0,67.0,47.0,10.0
+1427,Zafer,Kara,Erkek,23.0,Yapay Zekâ Mühendisliği,34.0,77.0,65.0,1.0
+1428,Yusuf,Şahin,Erkek,21.0,Yapay Zekâ Mühendisliği,99.0,66.0,99.0,11.0
+1429,Pınar,Güler,Kadın,18.0,Veri Bilimi ve Analitiği,98.0,69.0,84.0,2.0
+1430,Nihan,Kılıç,Kadın,22.0,Yazılım Mühendisliği,87.0,96.0,95.0,7.0
+1431,Derya,Güler,Kadın,25.0,Yazılım Mühendisliği,69.0,62.0,45.0,7.0
+1432,Ömer,Kaya,Erkek,25.0,Yazılım Mühendisliği,,48.0,,7.0
+1433,Enes,Kara,Erkek,18.0,Bilgisayar Mühendisliği,88.0,88.0,87.0,8.0
+1434,Yasin,Acar,Erkek,20.0,Endüstri Mühendisliği,42.0,74.0,64.0,4.0
+1435,Enes,Öztürk,Erkek,23.0,Yapay Zekâ Mühendisliği,71.0,92.0,66.0,5.0
+1436,Şeyma,Yıldız,Kadın,22.0,Yazılım Mühendisliği,89.0,36.0,44.0,10.0
+1437,Rüya,Arslan,Kadın,25.0,Yönetim Bilişim Sistemleri,74.0,87.0,96.0,2.0
+1438,Hilal,Kaya,Kadın,20.0,Yazılım Mühendisliği,60.0,,62.0,
+1439,Burak,Koç,Erkek,18.0,Yönetim Bilişim Sistemleri,71.0,39.0,71.0,10.0
+1440,Yusuf,Kara,Erkek,24.0,Veri Bilimi ve Analitiği,82.0,59.0,78.0,1.0
+1441,Burak,Acar,Erkek,25.0,Veri Bilimi ve Analitiği,31.0,41.0,78.0,1.0
+1442,Zehra,Korkmaz,Kadın,20.0,Veri Bilimi ve Analitiği,,42.0,85.0,
+1443,Büşra,Kara,Kadın,18.0,Yönetim Bilişim Sistemleri,56.0,46.0,79.0,
+1444,Eren,Kara,Erkek,24.0,Yapay Zekâ Mühendisliği,89.0,93.0,63.0,2.0
+1445,Sibel,Şahin,Kadın,21.0,Bilgisayar Mühendisliği,99.0,59.0,46.0,9.0
+1446,Selin,Koç,Kadın,,Yönetim Bilişim Sistemleri,92.0,57.0,99.0,4.0
+1447,Onur,Özcan,Erkek,24.0,Veri Bilimi ve Analitiği,51.0,97.0,59.0,3.0
+1448,Kadir,Kurt,Erkek,23.0,Veri Bilimi ve Analitiği,97.0,93.0,56.0,11.0
+1449,Tolga,Şahin,Erkek,19.0,Yönetim Bilişim Sistemleri,51.0,46.0,49.0,5.0
+1450,Volkan,Arslan,Erkek,18.0,Yazılım Mühendisliği,94.0,51.0,65.0,7.0
+1451,Murat,Aslan,Erkek,22.0,Yazılım Mühendisliği,79.0,43.0,86.0,11.0
+1452,Murat,Ünal,Erkek,18.0,Yazılım Mühendisliği,65.0,81.0,100.0,11.0
+1453,Emre,Kaya,Erkek,21.0,Veri Bilimi ve Analitiği,36.0,,68.0,
+1454,Büşra,Aydın,Kadın,23.0,Yönetim Bilişim Sistemleri,40.0,62.0,45.0,2.0
+1455,Büşra,Kurt,Kadın,23.0,Yapay Zekâ Mühendisliği,87.0,55.0,73.0,1.0
+1456,Kerem,Yılmaz,Erkek,24.0,Veri Bilimi ve Analitiği,58.0,,43.0,0.0
+1457,Zafer,Kurt,Erkek,22.0,Yönetim Bilişim Sistemleri,42.0,68.0,54.0,6.0
+1458,Uğur,Çetin,Erkek,18.0,Endüstri Mühendisliği,58.0,,68.0,10.0
+1459,Melis,Aslan,Kadın,18.0,Yönetim Bilişim Sistemleri,61.0,31.0,,3.0
+1460,Ali,Kurt,Erkek,25.0,Yapay Zekâ Mühendisliği,51.0,56.0,42.0,0.0
+1461,Yasemin,Acar,Kadın,21.0,Yapay Zekâ Mühendisliği,85.0,50.0,86.0,4.0
+1462,Ece,Çelik,Kadın,25.0,Veri Bilimi ve Analitiği,,88.0,59.0,5.0
+1463,Murat,Arslan,Erkek,22.0,Endüstri Mühendisliği,48.0,86.0,44.0,2.0
+1464,Elif,Koç,Kadın,25.0,Veri Bilimi ve Analitiği,,30.0,97.0,11.0
+1465,Mustafa,Yalçın,Erkek,23.0,Yönetim Bilişim Sistemleri,,67.0,54.0,1.0
+1466,Murat,Aydın,Erkek,22.0,Yazılım Mühendisliği,90.0,64.0,88.0,8.0
+1467,Emre,Aslan,Erkek,23.0,Yapay Zekâ Mühendisliği,53.0,41.0,57.0,11.0
+1468,Ece,Acar,Kadın,21.0,Veri Bilimi ve Analitiği,56.0,89.0,85.0,8.0
+1469,Yaren,Yılmaz,Kadın,25.0,Yazılım Mühendisliği,46.0,82.0,47.0,10.0
+1470,Mert,Aydın,Erkek,18.0,Endüstri Mühendisliği,,75.0,89.0,3.0
+1471,Şeyma,Acar,Kadın,23.0,Yapay Zekâ Mühendisliği,100.0,32.0,68.0,
+1472,Nazlı,Korkmaz,Kadın,21.0,Veri Bilimi ve Analitiği,93.0,73.0,92.0,7.0
+1473,Kaan,Korkmaz,Erkek,25.0,Bilgisayar Mühendisliği,89.0,32.0,59.0,8.0
+1474,Meltem,Aslan,Kadın,24.0,Bilgisayar Mühendisliği,,100.0,56.0,11.0
+1475,Murat,Ünal,Erkek,25.0,Yapay Zekâ Mühendisliği,38.0,67.0,87.0,8.0
+1476,Seda,Acar,Kadın,22.0,Yönetim Bilişim Sistemleri,89.0,,61.0,5.0
+1477,Yaren,Kurt,Kadın,24.0,Veri Bilimi ve Analitiği,31.0,,63.0,7.0
+1478,Mert,Öztürk,Erkek,22.0,Endüstri Mühendisliği,40.0,93.0,52.0,
+1479,Yusuf,Arslan,Erkek,25.0,Veri Bilimi ve Analitiği,50.0,47.0,69.0,1.0
+1480,Tuğba,Ünal,Kadın,24.0,Veri Bilimi ve Analitiği,67.0,61.0,50.0,8.0
+1481,Büşra,Çetin,Kadın,24.0,Yapay Zekâ Mühendisliği,62.0,,99.0,5.0
+1482,Nazlı,Özdemir,Kadın,18.0,Yönetim Bilişim Sistemleri,70.0,37.0,50.0,
+1483,Volkan,Özdemir,Erkek,18.0,Veri Bilimi ve Analitiği,80.0,70.0,56.0,11.0
+1484,Özge,Kılıç,Kadın,19.0,Endüstri Mühendisliği,75.0,61.0,54.0,5.0
+1485,Mert,Ünal,Erkek,22.0,Endüstri Mühendisliği,49.0,,72.0,9.0
+1486,Murat,Çetin,Erkek,25.0,Yazılım Mühendisliği,69.0,61.0,89.0,
+1487,Kübra,Aydın,Kadın,25.0,Yönetim Bilişim Sistemleri,,,,11.0
+1488,Mert,Kara,Erkek,25.0,Yönetim Bilişim Sistemleri,31.0,62.0,80.0,0.0
+1489,İrem,Güler,Kadın,25.0,Yazılım Mühendisliği,55.0,51.0,78.0,1.0
+1490,Hilal,Kılıç,Kadın,25.0,Yazılım Mühendisliği,67.0,,78.0,9.0
+1491,Yaren,Kılıç,Kadın,22.0,Yapay Zekâ Mühendisliği,75.0,44.0,73.0,9.0
+1492,Işıl,Kara,Kadın,21.0,Yapay Zekâ Mühendisliği,73.0,78.0,79.0,10.0
+1493,Kaan,Yılmaz,Erkek,22.0,Veri Bilimi ve Analitiği,90.0,96.0,,
+1494,Serkan,Şimşek,Erkek,19.0,Yazılım Mühendisliği,35.0,,48.0,5.0
+1495,Elif,Doğan,Kadın,19.0,Yazılım Mühendisliği,61.0,70.0,89.0,11.0
+1496,Volkan,Çetin,Erkek,18.0,Yönetim Bilişim Sistemleri,37.0,79.0,67.0,
+1497,Kadir,Özdemir,Erkek,25.0,Yazılım Mühendisliği,91.0,91.0,86.0,10.0
+1498,Merve,Koç,Kadın,22.0,Yapay Zekâ Mühendisliği,36.0,33.0,45.0,9.0
+1499,Fatma,Şimşek,Kadın,21.0,Yapay Zekâ Mühendisliği,51.0,55.0,42.0,8.0
+1500,Uğur,Kurt,Erkek,22.0,Yapay Zekâ Mühendisliği,89.0,43.0,,10.0
